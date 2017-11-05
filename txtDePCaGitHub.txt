@@ -1,1 +1,2 @@
 agrego el texto de un archivo txt para subir a gitHub
+modifico una linea de texto de un archivo txt para subir a gerritHub
